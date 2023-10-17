@@ -1,5 +1,5 @@
 import pandas as pd
-import hei
+from foodframe import hei
 import nutrition as nutri
 
 
